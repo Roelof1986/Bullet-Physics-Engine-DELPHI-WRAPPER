@@ -143,7 +143,7 @@ Implement torque-based motor control
 
 Integrate Hexapod-VR demo using this engine
 
-
+---
 
 > Update:
 During testing with the Bullet wrapper, I noticed that multi-joint simulations (especially humanoids) could become unstable or desynchronized after several steps.
