@@ -151,4 +151,4 @@ During testing with the Bullet wrapper, I noticed that multi-joint simulations (
 These issues are *not present* in the new **MuJoCo Wrapper**, which handles multiple articulated bodies with much higher precision.
 
 You can check out the new version here:
-👉 GitHub – MuJoCo-Wrapper–Delphi-Demos   [MuJoCo-Wrapper (Delphi)](https://github.com/Roelof1986/MuJoCo-Wrapper--Delphi-) 
+👉 GitHub – [MuJoCo-Wrapper–Delphi-Demos](https://github.com/Roelof1986/MuJoCo-Wrapper--Delphi-Demos) 
