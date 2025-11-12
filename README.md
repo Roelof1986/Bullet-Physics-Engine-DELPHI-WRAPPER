@@ -107,7 +107,6 @@ Build & run → a blue torso with a yellow leg appears.
 The leg swings within joint limits and the torso falls and collides with the floor.
 
 
-
 ---
 
 ⚖️ License
@@ -122,6 +121,9 @@ in the Software without restriction...
 
 (see LICENSE file for full text)
 
+### Third-party components
+This project uses the Bullet Physics SDK, © Erwin Coumans,  
+licensed under the [zlib License](https://github.com/bulletphysics/bullet3/blob/master/LICENSE.txt).
 
 ---
 
