@@ -142,3 +142,13 @@ Add second joint (knee)
 Implement torque-based motor control
 
 Integrate Hexapod-VR demo using this engine
+
+
+
+> Update:
+During testing with the Bullet wrapper, I noticed that multi-joint simulations (especially humanoids) could become unstable or desynchronized after several steps.
+
+These issues are *not present* in the new **MuJoCo Wrapper**, which handles multiple articulated bodies with much higher precision.
+
+You can check out the new version here:
+👉 GitHub – MuJoCo-Wrapper–Delphi-Demos
